@@ -1,0 +1,14 @@
+{
+  "name": "Ma Garde-robe",
+  "short_name": "Garde-robe",
+  "description": "Mes vêtements, mes tenues du quotidien et mes achats potentiels.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ee",
+  "theme_color": "#1f1d1a",
+  "lang": "fr",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

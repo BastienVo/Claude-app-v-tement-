@@ -1,0 +1,12 @@
+{
+  "updatedAt": "2026-11-11",
+  "note": "Pour commencer, voici les basiques d'une garde-robe capsule. Dès que tu m'envoies ton inventaire (Réglages ⚙︎ → Copier mon inventaire) avec ton style, ta taille et ton budget, je remplace cette liste par de vrais articles en vente, avec les liens.",
+  "items": [
+    { "name": "T-shirt blanc col rond en coton épais", "brand": "", "price": null, "category": "haut", "url": "", "imageUrl": null, "why": "La base de presque toutes les tenues du quotidien, se porte seul ou sous une chemise ouverte ou un pull." },
+    { "name": "Jean brut coupe droite", "brand": "", "price": null, "category": "bas", "url": "", "imageUrl": null, "why": "Va avec tout, du t-shirt à la veste de costume, et vieillit bien." },
+    { "name": "Pull col rond en laine mérinos (gris ou marine)", "brand": "", "price": null, "category": "pull", "url": "", "imageUrl": null, "why": "Chaud sans être épais, facile à superposer sur une chemise ou un t-shirt." },
+    { "name": "Chemise Oxford bleu ciel", "brand": "", "price": null, "category": "haut", "url": "", "imageUrl": null, "why": "Passe du travail au week-end, rentrée ou portée ouverte." },
+    { "name": "Baskets blanches minimalistes en cuir", "brand": "", "price": null, "category": "chaussures", "url": "", "imageUrl": null, "why": "La paire qui va avec tout : jean, chino, short." },
+    { "name": "Manteau ou veste mi-saison neutre (marine, camel ou kaki)", "brand": "", "price": null, "category": "veste", "url": "", "imageUrl": null, "why": "Une pièce par-dessus qui habille tout de suite une tenue simple." }
+  ]
+}
